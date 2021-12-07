@@ -1,32 +1,33 @@
 ﻿<Properties StartupConfiguration="{4E0DCDBB-FFF0-4BC5-81BF-8A4B3AE8DC48}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="dotNetPractice/Models/ErrorViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotNetPractice/Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="dotNetPractice/Models/ErrorViewModel.cs" Line="8" Column="1" />
+      <File FileName="dotNetPractice/Controllers/HomeController.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="dotNetPractice/Properties/launchSettings.json" Line="9" Column="5" />
+      <File FileName="dotNetPractice/Views/Home/Index.cshtml" Line="7" Column="17" />
+      <File FileName="dotNetPractice/Models/Post.cs" Line="18" Column="1" />
+      <File FileName="dotNetPractice/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="dotNetPractice/Data/ApplicationDbContext.cs" Line="16" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dotNetPractice" expanded="True">
             <Node name="dotNetPractice" expanded="True">
-              <Node name="Areas" expanded="True">
-                <Node name="Identity" expanded="True">
-                  <Node name="Pages" expanded="True" />
-                </Node>
-              </Node>
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True">
-                <Node name="Migrations" expanded="True" />
+                <Node name="ApplicationDbContext.cs" selected="True" />
               </Node>
-              <Node name="Models" expanded="True">
-                <Node name="ErrorViewModel.cs" selected="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
               </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
